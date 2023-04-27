@@ -1,0 +1,19 @@
+#heading{
+    width:100%;
+    margin:0px;
+    box-shadow: 10px 7px 10px 0px rgb(57, 177, 232);
+text-shadow: 7px 5px 2px #000000; 
+}
+
+    .note{
+        font-size: 20px;
+        color: black;
+        text-shadow: none;
+    }
+
+    canvas{
+        margin:50px;
+        padding:0px;
+        box-shadow: 5px 2px 5px 2px  rgb(255, 255, 255);
+        
+    }
